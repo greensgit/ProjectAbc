@@ -12,6 +12,7 @@ public class Demo extends EmployeeDetaills {
 
 	public void javaCourse() {
 		System.out.println("Java course is started");
+		System.out.println("Git class is started");
 	}
 	
 //ctrl+d to delete the line

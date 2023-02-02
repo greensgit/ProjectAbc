@@ -14,5 +14,9 @@ public class Institute {
 
 	}
 	
+	private void login() {
+		// TODO Auto-generated method stub
+		System.out.println("Anitha - writig logic for login");
+	}
 	
 }

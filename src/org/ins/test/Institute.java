@@ -14,5 +14,7 @@ public class Institute {
 
 	}
 	
-	
+	public void register() {
+		System.out.println(" This is created by Alan");
+	}
 }

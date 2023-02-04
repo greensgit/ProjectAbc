@@ -17,4 +17,10 @@ public class Institute {
 	public void register() {
 		System.out.println(" This is created by Alan");
 	}
+
+	private void login() {
+		// TODO Auto-generated method stub
+		System.out.println("Anitha - writig logic for login");
+	}
+	
 }
